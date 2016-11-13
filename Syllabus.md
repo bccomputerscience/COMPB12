@@ -118,30 +118,30 @@ habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-m
 ## Weekly Schedule
 Date | Week | Reading Assignments | Java Tutorial | Assign/Due
 ------------ | ------------- | ------------- | ------------- | -------------
-Aug 23 | 1 |  Horstmann: 1. Introduction | |
-Aug 25 |  |  | |
-Aug 30 | 2 |  Horstmann: 2. Using Objects | | 
-Sept 1 |  |  | |
-Sept 4 | 3 |  Labor Day – Campus Closed | | 
-Sept 5 |  | Last day to withdraw and not have a W show on your transcript | |
-Sept 6 |  |  | | Homework 1 
-Sept 8 | | Horstmann: 3. Implementing Classes | |
-Sept 13 | 4  |  |  | Quiz One
-Sept 15 | |  |  |
-Sept 20 | 5 | Horstmann: 4. Fundamental Data Types | | 
-Sept 22 |  |  |  | Homework 2
-Sept 27 | 6 | Horstmann: 5. Decisions |  | 
-Sept 29 |  | | | 
-Oct 4 | 7 | Java Tutorial [Control Statements](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  | | Homework 3 due
-Oct 6 | |  | |
-Oct 11 | 8 | Horstmann: 6. Loops | | Homework 4 due
-Oct 13 |  |  Midterm Exam | | Homework 5  Chapter Reviews Due 1 - 5
-Oct 18 | 9 | | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) |
-Oct 20 | | Ch. 20 Input/Output Streams | |
-Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
-Oct 25 | 10 | Horstmann: 7. Arrays and Array Lists | | Homework 6 
-Oct 27 | | | | 
-Nov 1 | 11 | Horstmann: 8. Designing Classes  | | Homework 7 
+Jan 16 | 1 | Martin Luther King, Jr. Day Holiday – Campus Closed | |
+Jan 18 |  |  | |
+Jan 23 | 2 |  Horstmann: 2. Using Objects | | 
+Jan 25 |  |  | |
+Jan 30 | 3 |  Labor Day – Campus Closed | | 
+Feb 1 |  | Last day to withdraw and not have a W show on your transcript | |
+Feb 6 |  |  | | Homework 1 
+Feb 8 | | Horstmann: 3. Implementing Classes | |
+Feb 13 | 4  |  |  | Quiz One
+Feb 15 | |  |  |
+Feb 20 | 5 | Horstmann: 4. Fundamental Data Types | | 
+Feb 22 |  |  |  | Homework 2
+Feb 27 | 6 | Horstmann: 5. Decisions |  | 
+Mar 1 |  | | | 
+Mar 6 | 7 | Java Tutorial [Control Statements](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  | | Homework 3 due
+Mar 8 | |  | |
+Mar 13 | 8 | Horstmann: 6. Loops | | Homework 4 due
+Mar 15 |  |  Midterm Exam | | Homework 5  Chapter Reviews Due 1 - 5
+Mar 20 | 9 | | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) |
+Mar 22 | | Ch. 20 Input/Output Streams | |
+Mar 27 |  | Last day to withdraw and have a W show on your transcript | |
+Mar 29 | 10 | Horstmann: 7. Arrays and Array Lists | | Homework 6 
+Apr 3 | | | | 
+Apr 5 | 11 | Horstmann: 8. Designing Classes  | | Homework 7 
 Nov 6 | | | | 
 Nov 8 | 12 | Horstmann: 9. Inheritance | Ch. 10 Interfaces | Homework 8
 Nov 10 | | | | 
