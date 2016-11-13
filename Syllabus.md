@@ -23,10 +23,10 @@ Office: Business 13
 Day | Time
 ------------ | -------------
 Monday | 12:00pm – 01:00pm
-  | 5:30pm – 06:00pm
+       | 5:30pm – 06:00pm
 Tuesday | 12:00pm – 01:00pm
 Wednesday | 12:00pm – 01:00pm
-  | 5:30pm – 06:00pm
+          | 5:30pm – 06:00pm
 Thursday | 12:00pm – 01:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
