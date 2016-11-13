@@ -95,7 +95,7 @@ Range (%) | grade
 80 >= | B
 70 >= | C
 60 >= | D
-60 >= | F
+60 <  | F
 * Grading is not curved.  89.99 is a B.
 
 
