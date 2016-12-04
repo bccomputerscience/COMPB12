@@ -61,8 +61,12 @@ and design.
     * Author: Tony Gaddis
     * ISBN: 9780133796339
 * BC Email Address   
+* GitHub Account w/ Student Access
+    * Private Repositories Required
 * Flash Drive
-* Two (3) green 100-answer test scan sheets (FORM NO. 882-ES).
+    * At least 16 GB (I will transfer a Linux Virtual Machine to you)
+    * You will want to run your VM from your USB Drive
+* Four (4) green 100-answer test scan sheets (FORM NO. 882-ES).
 
 ## Accommodations 
 Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student Programs & Services at (661) 395-4334, (on-campus located at Student Services Building, 1st Floor, Counseling Center), as soon as possible to better ensure such accommodations are implemented in a timely fashion.
@@ -110,6 +114,10 @@ Go to a BC Library Workshop (5 pts)
 [Workshop Schedule](https://www.bakersfieldcollege.edu/library/workshop-schedule)  
 * Maximum of two workshops per semester course
 
+Participate in BC Hackathon Spring 2017 (20 pts)
+* Must complete the competition
+
+
 ## Habits of Mind
 Many free resources exist at BC to help you accomplish your goals. For great information on developing new 
 habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-mind).
@@ -152,6 +160,6 @@ Nov 24 | | | | Homework 10
 Nov 30 |  | Review for final | | Chapter Reviews Due 6 - 9
 Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | **Bring ScanTron** | 
 
-### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
-### This syllabus is TENTATIVE and subject to change
+### Read the material for the week before class
+### This syllabus is tentative and subject to change
 
