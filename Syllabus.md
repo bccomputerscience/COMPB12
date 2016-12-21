@@ -87,9 +87,10 @@ Attendance is mandatory. The attendance policy as outlined in the campus catalog
 Assignment | Points
 ------------ | -------------
 Project | 50
-Exams (2 @ 50 points each) | 100
+Mid Term Exam | 50
+Exam Reviews (2 @ 25 pts each) | 50
 Programming Assignments (10 @ 20 points each) | 200
-Chapter Reviews (10 @ 10 points each) | 100
+Homework Assignments (10 @ 10 points each) | 100
 Final Exam | 50
 **TOTAL** | **500**
 
@@ -110,7 +111,7 @@ You will not be given extra time to complete the exam or quiz if you start late.
 
 
 ## Extra Credit
-Go to a BC Library Workshop (5 pts)  
+Go to a BC Library Workshop (10 pts)  
 [Workshop Schedule](https://www.bakersfieldcollege.edu/library/workshop-schedule)  
 * Maximum of two workshops per semester course
 
@@ -123,42 +124,51 @@ Many free resources exist at BC to help you accomplish your goals. For great inf
 habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-mind).
 
 
-## Weekly Schedule
-Date | Week | Reading Assignments | Java Tutorial | Assign/Due
+## 16 Week Semester Schedule  
+Date | Week | Topics | Reading | Assignments
 ------------ | ------------- | ------------- | ------------- | -------------
+Jan 14 |  | Spring Semester - Instruction Begins | |
 Jan 16 | 1 | Martin Luther King, Jr. Day Holiday – Campus Closed | |
-Jan 18 |  |  | |
-Jan 23 | 2 |  Horstmann: 2. Using Objects | | 
+Jan 18 |  | Fucntions | Ch. 6 |
+Jan 23 | 2 |  Pointers & Arrays | Ch. 9 | Homework 1 Due
 Jan 25 |  |  | |
-Jan 30 | 3 |  Labor Day – Campus Closed | | 
+Jan 27 |  | Last day for a refund for semester length classes  | |
+Jan 29 |  | Last day to drop from a semester length class without receiving a W   | |
+       |  | Last day to add a semester length class with approved add form  | |
+Jan 30 | 3 |  Labor Day – Campus Closed | | Homework 2 Due
 Feb 1 |  | Last day to withdraw and not have a W show on your transcript | |
-Feb 6 |  |  | | Homework 1 
+       |  | Dynamic Memory | Ch. 9 | 
+Feb 6 |  |  | | 
 Feb 8 | | Horstmann: 3. Implementing Classes | |
-Feb 13 | 4  |  |  | Quiz One
+Feb 13 | 4  |  |  | Homework 3 Due 
 Feb 15 | |  |  |
-Feb 20 | 5 | Horstmann: 4. Fundamental Data Types | | 
-Feb 22 |  |  |  | Homework 2
-Feb 27 | 6 | Horstmann: 5. Decisions |  | 
+Feb 17 | | Lincoln Holiday - Campus Closed |  |
+Feb 20 | 5 | Washington Holiday - Campus Closed  | | Homework 4 Due 
+Feb 22 |  |  |  | 
+Feb 27 | 6 | Horstmann: 5. Decisions |  | Homework 5 Due 
 Mar 1 |  | | | 
-Mar 6 | 7 | Java Tutorial [Control Statements](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  | | Homework 3 due
+Mar 6 | 7 | Java Tutorial [Control Statements](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  | | 
 Mar 8 | |  | |
-Mar 13 | 8 | Horstmann: 6. Loops | | Homework 4 due
+Mar 13 | 8 | Horstmann: 6. Loops | | 
 Mar 15 |  |  Midterm Exam | | Homework 5  Chapter Reviews Due 1 - 5
-Mar 20 | 9 | | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) |
+Mar 20 | 9 | | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) | Homework 6 Due
 Mar 22 | | Ch. 20 Input/Output Streams | |
-Mar 27 |  | Last day to withdraw and have a W show on your transcript | |
-Mar 29 | 10 | Horstmann: 7. Arrays and Array Lists | | Homework 6 
-Apr 3 | | | | 
-Apr 5 | 11 | Horstmann: 8. Designing Classes  | | Homework 7 
-Nov 6 | | | | 
-Nov 8 | 12 | Horstmann: 9. Inheritance | Ch. 10 Interfaces | Homework 8
-Nov 10 | | | | 
-Nov 15 | 13  | Horstmann: 13 Object Oriented Design | | Homework 9
-Nov 27 | | | | 
-Nov 22 | 14 | Horstmann: 14. Recursion | |
-Nov 24 | | | | Homework 10
-Nov 30 |  | Review for final | | Chapter Reviews Due 6 - 9
-Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | **Bring ScanTron** | 
+Mar 24 | | Last day to withdraw from a semester length class and receive a W | |
+Mar 27 | 10 | Last day to withdraw and have a W show on your transcript | | Homework 7 Due
+Mar 29 |  | Horstmann: 7. Arrays and Array Lists | |  
+Apr 3 | 11 | | | Homework 8 Due
+Apr 5 |  | Horstmann: 8. Designing Classes  | | 
+Apr 10 | 12 | Spring Break - Campus Closed | | Homework 9 Due
+Apr 17 |  | Horstmann: 9. Inheritance | Ch. 10 Interfaces | 
+Apr 19 | | | | 
+Apr 24 | 13  | Horstmann: 13 Object Oriented Design | | Homework 10 Due
+Apr 26 | | | | 
+May 1 | 14 | Horstmann: 14. Recursion | |
+May 3 | | | | 
+May 5 | | Project Due by 11:59pm | | 
+May 8 | 15 | Review for final | | Chapter Reviews Due 6 - 9
+May 10 | 16 |  Final Exam - 8:00 am to 9:50 am | **Bring ScanTron** | 
+May 12 |  | **End of Spring Semester** | |
 
 ### Read the material for the week before class
 ### This syllabus is tentative and subject to change
