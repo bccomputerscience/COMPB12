@@ -105,7 +105,7 @@ Range (%) | grade
 
 
 ## Exams, Assignments, and Late Policy 
-Mak-up exams or quizzes will not be given and late assignments will not be accepted. Assignments are due at the beginning of the class session. 
+Make-up exams or quizzes will not be given and late assignments will not be accepted. Assignments are due at the beginning of the class session. 
 You may always arrange to turn in assignments or take exams in advance of the scheduled times. Exams and quizzes will be timed. 
 You will not be given extra time to complete the exam or quiz if you start late.
 
@@ -116,6 +116,7 @@ Go to a BC Library Workshop (10 pts)
 * Maximum of two workshops per semester course
 
 Participate in BC Hackathon Spring 2017 (20 pts)
+* March 17th - 19th
 * Must complete the competition
 
 
@@ -138,35 +139,35 @@ Jan 29 |  | Last day to drop from a semester length class without receiving a W 
 Jan 30 | 3 |  Labor Day – Campus Closed | | Homework 2 Due
 Feb 1 |  | Last day to withdraw and not have a W show on your transcript | |
        |  | Dynamic Memory | Ch. 9 | 
-Feb 6 |  |  | | 
+Feb 6 | 4 |  | | 
 Feb 8 | | Horstmann: 3. Implementing Classes | |
-Feb 13 | 4  |  |  | Homework 3 Due 
+Feb 13 | 5  |  |  | Homework 3 Due 
 Feb 15 | |  |  |
 Feb 17 | | Lincoln Holiday - Campus Closed |  |
-Feb 20 | 5 | Washington Holiday - Campus Closed  | | Homework 4 Due 
+Feb 20 | 6 | Washington Holiday - Campus Closed  | | Homework 4 Due 
 Feb 22 |  |  |  | 
-Feb 27 | 6 | Horstmann: 5. Decisions |  | Homework 5 Due 
+Feb 27 | 7 | Horstmann: 5. Decisions |  | Homework 5 Due 
 Mar 1 |  | | | 
-Mar 6 | 7 | Java Tutorial [Control Statements](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  | | 
+Mar 6 | 8 | Java Tutorial [Control Statements](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  | | 
 Mar 8 | |  | |
-Mar 13 | 8 | Horstmann: 6. Loops | | 
-Mar 15 |  |  Midterm Exam | | Homework 5  Chapter Reviews Due 1 - 5
-Mar 20 | 9 | | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) | Homework 6 Due
+Mar 13 | 9 | Horstmann: 6. Loops | | 
+Mar 15 |  |  Midterm Exam | | MidTerm Review Due
+Mar 20 | 10 | | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) | Homework 6 Due
 Mar 22 | | Ch. 20 Input/Output Streams | |
 Mar 24 | | Last day to withdraw from a semester length class and receive a W | |
-Mar 27 | 10 | Last day to withdraw and have a W show on your transcript | | Homework 7 Due
+Mar 27 | 11 | Last day to withdraw and have a W show on your transcript | | Homework 7 Due
 Mar 29 |  | Horstmann: 7. Arrays and Array Lists | |  
-Apr 3 | 11 | | | Homework 8 Due
+Apr 3 | 12 | | | Homework 8 Due
 Apr 5 |  | Horstmann: 8. Designing Classes  | | 
-Apr 10 | 12 | Spring Break - Campus Closed | | Homework 9 Due
-Apr 17 |  | Horstmann: 9. Inheritance | Ch. 10 Interfaces | 
+Apr 10 | 13 | Spring Break - Campus Closed | | Homework 9 Due
+Apr 17 | 14 | Horstmann: 9. Inheritance | Ch. 10 Interfaces | 
 Apr 19 | | | | 
-Apr 24 | 13  | Horstmann: 13 Object Oriented Design | | Homework 10 Due
+Apr 24 | 15  | Horstmann: 13 Object Oriented Design | | Homework 10 Due
 Apr 26 | | | | 
-May 1 | 14 | Horstmann: 14. Recursion | |
+May 1 | 16 | Horstmann: 14. Recursion | |
 May 3 | | | | 
 May 5 | | Project Due by 11:59pm | | 
-May 8 | 15 | Review for final | | Chapter Reviews Due 6 - 9
+May 8 | 17 | Finals Week | | Chapter Reviews Due 6 - 9
 May 10 | 16 |  Final Exam - 8:00 am to 9:50 am | **Bring ScanTron** | 
 May 12 |  | **End of Spring Semester** | |
 
