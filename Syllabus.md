@@ -22,12 +22,10 @@ Office: Business 13
 
 Day | Time
 ------------ | -------------
-Monday | 12:00pm – 01:00pm
-       | 5:30pm – 06:00pm
-Tuesday | 12:00pm – 01:00pm
-Wednesday | 12:00pm – 01:00pm
-          | 5:30pm – 06:00pm
-Thursday | 12:00pm – 01:00pm
+Monday | 04:00pm – 05:30pm
+Tuesday | 03:00pm – 04:00pm
+Wednesday | 04:00pm – 05:30pm
+Thursday | 03:00pm – 04:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
@@ -130,8 +128,8 @@ Date | Week | Topics | Reading | Assignments
 ------------ | ------------- | ------------- | ------------- | -------------
 Jan 14 |  | Spring Semester - Instruction Begins | |
 Jan 16 | 1 | Martin Luther King, Jr. Day Holiday – Campus Closed | |
-Jan 18 |  | Fucntions | Ch. 6 |
-Jan 23 | 2 |  Pointers & Arrays | Ch. 9 | Homework 1 Due
+Jan 18 |  | Intro. to C++ | Ch. 6 | 
+Jan 23 | 2 |  Intro. to C++ | Ch. 9 | Homework 1 Due
 Jan 25 |  |  | |
 Jan 27 |  | Last day for a refund for semester length classes  | |
 Jan 29 |  | Last day to drop from a semester length class without receiving a W   | |
