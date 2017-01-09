@@ -62,7 +62,7 @@ and design.
 * GitHub Account w/ Student Access
     * Private Repositories Required
 * Flash Drive
-    * At least 16 GB (I will transfer a Linux Virtual Machine to you)
+    * At least 32 GB (I will transfer a Linux Virtual Machine to you)
     * You will want to run your VM from your USB Drive
 * Four (4) green 100-answer test scan sheets (FORM NO. 882-ES).
 
@@ -128,44 +128,43 @@ Date | Week | Topics | Reading | Assignments
 ------------ | ------------- | ------------- | ------------- | -------------
 Jan 14 |  | Spring Semester - Instruction Begins | |
 Jan 16 | 1 | Martin Luther King, Jr. Day Holiday – Campus Closed | |
-Jan 18 |  | Intro. to C++ | Ch. 6 | 
-Jan 23 | 2 |  Intro. to C++ | Ch. 9 | Homework 1 Due
+Jan 18 |  | Intro. to C++ | Ch. 1 - 8 | 
+Jan 23 | 2 |  Intro. to C++ | Ch. 1 - 8 | Homework 1 Due
 Jan 25 |  |  | |
-Jan 27 |  | Last day for a refund for semester length classes  | |
 Jan 29 |  | Last day to drop from a semester length class without receiving a W   | |
        |  | Last day to add a semester length class with approved add form  | |
 Jan 30 | 3 |  Labor Day – Campus Closed | | Homework 2 Due
 Feb 1 |  | Last day to withdraw and not have a W show on your transcript | |
-       |  | Dynamic Memory | Ch. 9 | 
-Feb 6 | 4 |  | | 
-Feb 8 | | Horstmann: 3. Implementing Classes | |
-Feb 13 | 5  |  |  | Homework 3 Due 
+       |  | Intro. to C++ | Ch. 1 - 8 | 
+Feb 6 | 4 | Classes/Inheritance | Ch. 13 - 15 | 
+Feb 8 | |  | |
+Feb 13 | 5  | Pointers | Ch. 9 | Homework 3 Due 
 Feb 15 | |  |  |
 Feb 17 | | Lincoln Holiday - Campus Closed |  |
 Feb 20 | 6 | Washington Holiday - Campus Closed  | | Homework 4 Due 
-Feb 22 |  |  |  | 
-Feb 27 | 7 | Horstmann: 5. Decisions |  | Homework 5 Due 
+Feb 22 |  | Polymorphism/Templates | Ch. 15, 16 | 
+Feb 27 | 7 | Recursion | Ch. 19 | Homework 5 Due 
 Mar 1 |  | | | 
-Mar 6 | 8 | Java Tutorial [Control Statements](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  | | 
+Mar 6 | 8 | Exceptions/Standard Template Library | Ch. 15, 16 | 
 Mar 8 | |  | |
-Mar 13 | 9 | Horstmann: 6. Loops | | 
-Mar 15 |  |  Midterm Exam | | MidTerm Review Due
-Mar 20 | 10 | | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) | Homework 6 Due
-Mar 22 | | Ch. 20 Input/Output Streams | |
+Mar 13 | 9 | MidTerm Review | | 
+Mar 15 |  |  MidTerm Exam | | 
+Mar 20 | 10 | Linked Lists | Ch. 17 | Homework 6 Due
+Mar 22 | |  | |
 Mar 24 | | Last day to withdraw from a semester length class and receive a W | |
 Mar 27 | 11 | Last day to withdraw and have a W show on your transcript | | Homework 7 Due
-Mar 29 |  | Horstmann: 7. Arrays and Array Lists | |  
+Mar 29 |  | Stacks | Ch. 18 |  
 Apr 3 | 12 | | | Homework 8 Due
-Apr 5 |  | Horstmann: 8. Designing Classes  | | 
+Apr 5 |  | Queues | Ch. 18| 
 Apr 10 | 13 | Spring Break - Campus Closed | | Homework 9 Due
-Apr 17 | 14 | Horstmann: 9. Inheritance | Ch. 10 Interfaces | 
+Apr 17 | 14 | Searching & Sorting |  | 
 Apr 19 | | | | 
-Apr 24 | 15  | Horstmann: 13 Object Oriented Design | | Homework 10 Due
+Apr 24 | 15  | Binary Trees | Ch. 20 | Homework 10 Due
 Apr 26 | | | | 
-May 1 | 16 | Horstmann: 14. Recursion | |
+May 1 | 16 | Hash Tables Graph | |
 May 3 | | | | 
 May 5 | | Project Due by 11:59pm | | 
-May 8 | 17 | Finals Week | | Chapter Reviews Due 6 - 9
+May 8 | 17 | Finals Week | | 
 May 10 | 16 |  Final Exam - 8:00 am to 9:50 am | **Bring ScanTron** | 
 May 12 |  | **End of Spring Semester** | |
 
