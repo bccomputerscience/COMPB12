@@ -140,8 +140,7 @@ May 12 | End of Spring Semester
 ## 16 Week Semester Schedule  
 Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
-1 | Spring Semester - Instruction Begins | |
-  | Intro. to C++ | Ch. 1 - 8 | 
+1 | Intro. to C++ | Ch. 1 - 8 | 
 2 |  Intro. to C++ | Ch. 1 - 8 | Homework 1 Due
 3 |  Intro. to C++ | Ch. 1 - 8 | Homework 2 Due
 4 | Classes/Inheritance | Ch. 13 - 15 | 
