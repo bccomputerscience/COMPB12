@@ -18,7 +18,7 @@ Monday 01:00pm - 02:25pm
 Wednesday 01:00pm - 02:25pm  
 
 ## Office Hours
-Office: Business 13
+Office: Business 1
 
 Day | Time
 ------------ | -------------
@@ -122,51 +122,43 @@ Participate in BC Hackathon Spring 2017 (20 pts)
 Many free resources exist at BC to help you accomplish your goals. For great information on developing new 
 habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-mind).
 
+## Important Dates
+Date | Event
+------ | ------
+Jan 14 | Spring Semester - Instruction Begins 
+Jan 16 | Martin Luther King, Jr. Day Holiday – Campus Closed
+Jan 29 | Last day to drop from a semester length class without receiving a W 
+       | Last day to add a semester length class with approved add form  
+Feb 1  | Last day to withdraw and not have a W show on your transcript 
+Feb 17 | Lincoln Holiday - Campus Closed 
+Feb 20 | Washington Holiday - Campus Closed  
+Mar 24 | Last day to withdraw from a semester length class and receive a W 
+Mar 27 | Last day to withdraw and have a W show on your transcript 
+Apr 10 | Spring Break - Campus Closed 
+May 12 | End of Spring Semester
 
 ## 16 Week Semester Schedule  
-Date | Week | Topics | Reading | Assignments
------------- | ------------- | ------------- | ------------- | -------------
-Jan 14 |  | Spring Semester - Instruction Begins | |
-Jan 16 | 1 | Martin Luther King, Jr. Day Holiday – Campus Closed | |
-Jan 18 |  | Intro. to C++ | Ch. 1 - 8 | 
-Jan 23 | 2 |  Intro. to C++ | Ch. 1 - 8 | Homework 1 Due
-Jan 25 |  |  | |
-Jan 29 |  | Last day to drop from a semester length class without receiving a W   | |
-       |  | Last day to add a semester length class with approved add form  | |
-Jan 30 | 3 |  Labor Day – Campus Closed | | Homework 2 Due
-Feb 1 |  | Last day to withdraw and not have a W show on your transcript | |
-       |  | Intro. to C++ | Ch. 1 - 8 | 
-Feb 6 | 4 | Classes/Inheritance | Ch. 13 - 15 | 
-Feb 8 | |  | |
-Feb 13 | 5  | Pointers | Ch. 9 | Homework 3 Due 
-Feb 15 | |  |  |
-Feb 17 | | Lincoln Holiday - Campus Closed |  |
-Feb 20 | 6 | Washington Holiday - Campus Closed  | | Homework 4 Due 
-Feb 22 |  | Polymorphism/Templates | Ch. 15, 16 | 
-Feb 27 | 7 | Recursion | Ch. 19 | Homework 5 Due 
-Mar 1 |  | | | 
-Mar 6 | 8 | Exceptions/Standard Template Library | Ch. 15, 16 | 
-Mar 8 | |  | |
-Mar 13 | 9 | MidTerm Review | | 
-Mar 15 |  |  MidTerm Exam | | 
-Mar 20 | 10 | Linked Lists | Ch. 17 | Homework 6 Due
-Mar 22 | |  | |
-Mar 24 | | Last day to withdraw from a semester length class and receive a W | |
-Mar 27 | 11 | Last day to withdraw and have a W show on your transcript | | Homework 7 Due
-Mar 29 |  | Stacks | Ch. 18 |  
-Apr 3 | 12 | | | Homework 8 Due
-Apr 5 |  | Queues | Ch. 18| 
-Apr 10 | 13 | Spring Break - Campus Closed | | Homework 9 Due
-Apr 17 | 14 | Searching & Sorting |  | 
-Apr 19 | | | | 
-Apr 24 | 15  | Binary Trees | Ch. 20 | Homework 10 Due
-Apr 26 | | | | 
-May 1 | 16 | Hash Tables Graph | |
-May 3 | | | | 
-May 5 | | Project Due by 11:59pm | | 
-May 8 | 17 | Finals Week | | 
-May 10 | 16 |  Final Exam - 8:00 am to 9:50 am | **Bring ScanTron** | 
-May 12 |  | **End of Spring Semester** | |
+Week | Topics | Reading | Assignments
+ ------------- | ------------- | ------------- | -------------
+1 | Spring Semester - Instruction Begins | |
+  | Intro. to C++ | Ch. 1 - 8 | 
+2 |  Intro. to C++ | Ch. 1 - 8 | Homework 1 Due
+3 |  Intro. to C++ | Ch. 1 - 8 | Homework 2 Due
+4 | Classes/Inheritance | Ch. 13 - 15 | 
+5  | Pointers | Ch. 9 | Homework 3 Due 
+6 | Polymorphism/Templates | Ch. 15, 16 | Homework 4 Due 
+7 | Recursion | Ch. 19 | Homework 5 Due 
+8 | Exceptions/Standard Template Library | Ch. 15, 16 | 
+9 | MidTerm | | 
+10 | Linked Lists | Ch. 17 | Homework 6 Due
+11 | Stacks | Ch. 18 | Homework 7 Due
+12 | Queues | Ch. 18| Homework 8 Due
+13 | Spring Break - Campus Closed | | Homework 9 Due
+14 | Searching & Sorting |  | 
+15  | Binary Trees | Ch. 20 | Homework 10 Due
+16 | Hash Tables Graph | |
+17 | Finals Week | | 
+ |  Final Exam May 10 from 12:00PM -1:50PM | **Bring ScanTron** | 
 
 ### Read the material for the week before class
 ### This syllabus is tentative and subject to change

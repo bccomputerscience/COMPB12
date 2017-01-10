@@ -19,7 +19,7 @@ Wednesday 01:00pm - 02:25pm
 
 
 ## Office Hours
-Office: Business 13
+Office: Business 1
 
 Day | Time
 ------------ | -------------
