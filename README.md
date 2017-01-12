@@ -7,7 +7,7 @@ Information Technology
 Bakersfield College  
 
 ## Contact Information
-Office: Business 1  
+Office: Business 1    
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
 web: http://courses.eddierangel.com/bc  
@@ -20,18 +20,15 @@ Day | Time
 Monday | 01:00pm - 02:25pm  
 Wednesday | 01:00pm - 02:25pm  
 
-
 ## Office Hours
 Office: Business 1
 
 Day | Time
 ------------ | -------------
-Monday | 12:00pm – 01:00pm
-  | 5:30pm – 06:00pm
-Tuesday | 12:00pm – 01:00pm
-Wednesday | 12:00pm – 01:00pm
-  | 5:30pm – 06:00pm
-Thursday | 12:00pm – 01:00pm
+Monday | 04:00pm – 05:30pm
+Tuesday | 03:00pm – 04:00pm
+Wednesday | 04:00pm – 05:30pm
+Thursday | 03:00pm – 04:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
