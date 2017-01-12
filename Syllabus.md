@@ -112,7 +112,7 @@ You will not be given extra time to complete the exam or quiz if you start late.
 
 
 ## Extra Credit
-Go to a BC Library Workshop (10 pts)  
+Go to a BC Library Workshop (5 pts)  
 [Workshop Schedule](https://www.bakersfieldcollege.edu/library/workshop-schedule)  
 * Maximum of two workshops per semester course
 
