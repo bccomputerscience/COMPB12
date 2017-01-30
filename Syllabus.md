@@ -11,7 +11,7 @@ Office: Business 1
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
 Course Site: https://portal.bakersfieldcollege.edu/ 
-web: http://courses.eddierangel.com/bc  
+web: http://www.eddierangel.com/bc  
 
 ## Course Information
 Building/Room: Business 2   
