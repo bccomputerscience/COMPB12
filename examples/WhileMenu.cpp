@@ -68,20 +68,19 @@ void displayMenu()
 
 void get_ints(int *valueOne, int *valueTwo)
 {
-    cin >> *valueOne >> *valueTwo;
-	return;
+    cin >> *valueOne >> *valueTwo;	
 }
 
 void order_ints(int *valueOne, int *valueTwo)
 {
 	int temp;
+    
 	if(*valueOne > *valueTwo)
 	{
 		temp = *valueOne;
 		*valueOne = *valueTwo;
 		*valueTwo = temp;
 	}
-	return;
 }
 void swap_ints(int *valueOne, int *valueTwo)
 {
@@ -89,6 +88,5 @@ void swap_ints(int *valueOne, int *valueTwo)
 	temp = *valueOne;
 	*valueOne = *valueTwo;
 	*valueTwo = temp;
-	return;
 }
 
