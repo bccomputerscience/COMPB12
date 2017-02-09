@@ -22,13 +22,13 @@ int main()
 int mainMenu()
 {
     int input = 0;
-    cout << "*******************" << endl << endl;
+    cout << "*******************" << endl;
     cout << "Please choose from the following options: " << endl;
     cout << "1: Get Two Integers " << endl;
     cout << "2: Order Two Integers " << endl;
     cout << "3: Swap Two Integers" << endl;
     cout << "0: Exit " << endl;
-    cout << "*******************" << endl << endl;
+    cout << "*******************" << endl;
     cin >> input;
 
     return input;
@@ -36,19 +36,19 @@ int mainMenu()
 
 void displayMenu()
 {
-    int input = 0;    
+    int option = 0;    
 
     cout << "*******************" << endl;
     cout << "Welcome to my Menu" << endl;
-    input = mainMenu();
+    option = mainMenu();
 
-    while(input != 0)
+    while(option != 0)
     {
-        switch(input)
+        switch(option)
         {
             case 1: cout << "Please enter two integers: ";
                     get_ints(&valueOne, &valueTwo);
-                    cout << "You entered: " << valueOne << ' ' << valueTwo << endl;
+                    cout << "You entered: " << valueOne << ' ' << valueTwo << endl << endl;
                     break;
             case 2: cout << "Your integers put in order: ";
                     order_ints(&valueOne, &valueTwo);
@@ -58,12 +58,12 @@ void displayMenu()
                     swap_ints(&valueOne, &valueTwo);
                     cout << valueOne << ' ' << valueTwo << endl;
                     break;
-            case 0: cout << "Goodbye!";
-                    exit(EXIT_SUCCESS);
-                    break;
+            default: cout << "You entered an invalid choice." << endl;
         }
-        input = mainMenu();
+        option = mainMenu();
     }
+    cout << "Goodbye!" << endl;
+    exit(EXIT_SUCCESS);
 }
 
 void get_ints(int *valueOne, int *valueTwo)
