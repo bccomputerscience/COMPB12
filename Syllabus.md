@@ -143,20 +143,20 @@ May 12 | End of Spring Semester
 Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
 1 | Intro. to C++ | Ch. 1 - 8 | 
-2 |  Intro. to C++ | Ch. 1 - 8 | Homework 1 Due
-3 |  Intro. to C++ | Ch. 1 - 8 | Homework 2 Due
-4 | Abstract Data Types| Ch. 11 | 
-5 | Pointers/Classes/Inheritance  | Ch. 9/Ch. 13 - 15 | Homework 3 Due 
-6 | Polymorphism/Templates | Ch. 15, 16 | Homework 4 Due 
-7 | Recursion | Ch. 19 | Homework 5 Due 
-8 | Exceptions | Ch. 15, 16 | 
+2 | Intro. to C++ | Ch. 1 - 8 | Homework 1 Due
+3 | Intro. to C++ | Ch. 1 - 8 | Homework 2 Due
+4 | Pointers | Ch. 9 | 
+5 | Abstract Data Types  | Ch. 11 | Homework 3 Due 
+6 | Classes/Inheritance/ | Ch. 13 - 16 | Homework 4 Due 
+7 | Polymorphism/Templates | Ch. 13 - 16 | Homework 5 Due 
+8 | Exceptions | Ch. 13 - 16 | 
 9 | MidTerm | | 
 10 | Linked Lists | Ch. 17 | Homework 6 Due
 11 | Stacks | Ch. 18 | Homework 7 Due
 12 | Queues | Ch. 18| Homework 8 Due
 13 | Spring Break - Campus Closed | | Homework 9 Due
 14 | Searching & Sorting |  | 
-15  | Binary Trees | Ch. 20 | Homework 10 Due
+15 | Recursion/Binary Trees | Ch. 19 - 20 | Homework 10 Due
 16 | Hash Tables Graph | |
 17 | Finals Week | | 
  |  Final Exam May 10 from 12:00PM -1:50PM | **Bring ScanTron** | 
