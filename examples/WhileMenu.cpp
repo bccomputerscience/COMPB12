@@ -6,20 +6,18 @@
 #include<cstdlib>
 using namespace std;
 
-int valueOne, valueTwo;
-
-void displayMenu();
-int mainMenu();
+int displayMenu();
+void mainMenu();
 void get_ints(int *, int *);
 void order_ints(int *, int *);
 void swap_ints(int *, int *);
 
 int main()
 {
-    displayMenu();
+    mainMenu();
 }
 
-int mainMenu()
+int displayMenu()
 {
     int input = 0;
     cout << "*******************" << endl;
@@ -29,18 +27,20 @@ int mainMenu()
     cout << "3: Swap Two Integers" << endl;
     cout << "0: Exit " << endl;
     cout << "*******************" << endl;
+    cout << "Choice: ";
     cin >> input;
 
     return input;
 }
 
-void displayMenu()
+void mainMenu()
 {
+    int valueOne, valueTwo;
     int option = 0;    
 
     cout << "*******************" << endl;
     cout << "Welcome to my Menu" << endl;
-    option = mainMenu();
+    option = displayMenu();
 
     while(option != 0)
     {
@@ -60,7 +60,7 @@ void displayMenu()
                     break;
             default: cout << "You entered an invalid choice." << endl;
         }
-        option = mainMenu();
+        option = displayMenu();
     }
     cout << "Goodbye!" << endl;
     exit(EXIT_SUCCESS);
