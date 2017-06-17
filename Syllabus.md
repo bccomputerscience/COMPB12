@@ -1,5 +1,5 @@
 # COMP B12 - Programming Concepts and Methodology II
-## Spring 2017 CRN: 31050
+## Fall 2017 CRN: 71460
 
 ### Eddie Rangel
 Asst. Professor  
@@ -11,7 +11,6 @@ Office: Business 1
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
 Course Site: https://portal.bakersfieldcollege.edu/ 
-web: http://www.eddierangel.com/bc  
 
 ## Course Information
 Building/Room: Business 2   
