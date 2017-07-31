@@ -8,17 +8,17 @@ Wednesday 01:00pm - 02:25pm
 
 
 Day | Time | Topic
------------- | ------------- | -------------
-Monday |  01:00pm - 01:05pm  | Attendance & Collect Homework
-       |  01:05pm - 01:10pm  | News & Information
-       |  01:10pm - 02:05pm  | Lecture & Discussion
-       |  02:05pm - 02:10pm  | Administrivia
-       |  02:10pm - 02:25pm  | Lab
-Wednesday |  01:00pm - 01:05pm  | Attendance
-       |  01:05pm - 01:10pm  | News & Information
-       |  01:10pm - 02:05pm  | Lecture & Discussion
-       |  02:05pm - 02:10pm  | Administrivia
-       |  02:10pm - 02:25pm  | Lab
+|------------ | ------------- | -------------
+| Monday |  01:00pm - 01:05pm  | Attendance & Collect Homework
+|       |  01:05pm - 01:10pm  | News & Information
+|       |  01:10pm - 02:05pm  | Lecture & Discussion
+|       |  02:05pm - 02:10pm  | Administrivia
+|       |  02:10pm - 02:25pm  | Lab
+| Wednesday |  01:00pm - 01:05pm  | Attendance
+|       |  01:05pm - 01:10pm  | News & Information
+|      |  01:10pm - 02:05pm  | Lecture & Discussion
+|       |  02:05pm - 02:10pm  | Administrivia
+|       |  02:10pm - 02:25pm  | Lab
 
 ## Schedule Disclaimer
 This schedule is meant to provide a general format for the pace of each class
