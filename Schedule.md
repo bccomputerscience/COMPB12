@@ -8,8 +8,8 @@ Wednesday 01:00pm - 02:25pm
 
 
 Day | Time | Topic
-|------------ | ------------- | -------------
-| Monday |  01:00pm - 01:05pm  | Attendance & Collect Homework
+| ------------ | ------------- | -------------
+| Monday |  01:00pm - 01:05pm  | Attendance & Review Homework
 |       |  01:05pm - 01:10pm  | News & Information
 |       |  01:10pm - 02:05pm  | Lecture & Discussion
 |       |  02:05pm - 02:10pm  | Administrivia
