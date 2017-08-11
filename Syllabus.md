@@ -133,7 +133,7 @@ Week | Topics | Reading | Assignments
 6 | Stacks | Ch. 6 | Homework 4 Due 
 7 | ADT Stack | Ch. 7 | Homework 5 Due 
 8 | Lists | Ch. 8 | 
-9 | MidTerm | | 
+9 | MidTerm | **Bring ScanTron** | 
 10 | List Implementations | Ch. 9 | Homework 6 Due
 11 | Algorithms Efficiency | Ch. 10 | Homework 7 Due
 12 | Sorting Algorithms | Ch. 11| Homework 8 Due
@@ -141,7 +141,7 @@ Week | Topics | Reading | Assignments
 14 | Queue and Priority Queue | Ch. 13/14  | 
 15 | Trees | Ch. 15/16 | Homework 10 Due
 16 | Finals Week | | 
-| |  Final Exam May 10 from 12:00PM -1:50PM | **Bring ScanTron** | 
+| |  Final Exam **Wed., Dec. 6 from 8:00 am - 9:50 am**| **Bring ScanTron** | 
 
 ## Accommodations 
 Students with disabilities needing accommodation, including those who had an IEP in high school, should make requests to Disabled Students Programs and Services in CSS 10, or Delano room 1001 (661-395-4334, (661-720-2000 Delano)).  All requests for accommodations require appropriate advance notice to avoid a delay in services. Please discuss approved accommodations with me so we can work together to ensure your access and success at BC
