@@ -34,10 +34,7 @@ Thursday | 03:00pm – 04:00pm
 ## Course Description
 **Prerequisite**: COMP B11 with a grade of "C" or better. 
 This is a software engineering course focused on the application of software engineering techniques for the design and development 
-of large programs. Topics include object oriented programming, data abstraction, data structures 
-and their associated algorithms, and recursion. Students will learn to design, implement, test, 
-and debug programs using an object-oriented language. Not open to students who have previously 
-received credit for COMS B35.
+of large programs. Topics include object oriented programming, data abstraction, data structures and their associated algorithms, and recursion. Students will learn to design, implement, test, and debug programs using an object-oriented language. Not open to students who have previously received credit for COMS B35.
 **Course Corequisites**: NONE
 
 ## Student Learning Outcomes
@@ -57,16 +54,12 @@ and design.
 ## Textbook
 
 ### Required:
-* Starting Out with C++ from Control Structures to Objects plus MyProgrammingLab
-    * Access Card Package | Edition: 8 
+* Data Abstractions & Problem Solving with C++ 
+    * 7th Edition
     * Author: Tony Gaddis
-    * ISBN: 9780133796339
+    * ISBN: 9780134463971
 * BC Email Address   
-* GitHub Account w/ Student Access
-    * Private Repositories Required
-* Flash Drive
-    * At least 32 GB (I will transfer a Linux Virtual Machine to you)
-    * You will want to run your VM from your USB Drive
+* GitHub Student Developer Account
 * Four (4) green 100-answer test scan sheets (FORM NO. 882-ES).
 
 ## Assignments, Quizzes and Exams
