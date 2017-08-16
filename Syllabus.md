@@ -34,10 +34,7 @@ Thursday | 03:00pm – 04:00pm
 ## Course Description
 **Prerequisite**: COMP B11 with a grade of "C" or better. 
 This is a software engineering course focused on the application of software engineering techniques for the design and development 
-of large programs. Topics include object oriented programming, data abstraction, data structures 
-and their associated algorithms, and recursion. Students will learn to design, implement, test, 
-and debug programs using an object-oriented language. Not open to students who have previously 
-received credit for COMS B35.
+of large programs. Topics include object oriented programming, data abstraction, data structures and their associated algorithms, and recursion. Students will learn to design, implement, test, and debug programs using an object-oriented language. Not open to students who have previously received credit for COMS B35.
 **Course Corequisites**: NONE
 
 ## Student Learning Outcomes
@@ -57,16 +54,12 @@ and design.
 ## Textbook
 
 ### Required:
-* Starting Out with C++ from Control Structures to Objects plus MyProgrammingLab
-    * Access Card Package | Edition: 8 
+* Data Abstractions & Problem Solving with C++ 
+    * 7th Edition
     * Author: Tony Gaddis
-    * ISBN: 9780133796339
+    * ISBN: 9780134463971
 * BC Email Address   
-* GitHub Account w/ Student Access
-    * Private Repositories Required
-* Flash Drive
-    * At least 32 GB (I will transfer a Linux Virtual Machine to you)
-    * You will want to run your VM from your USB Drive
+* GitHub Student Developer Account
 * Four (4) green 100-answer test scan sheets (FORM NO. 882-ES).
 
 ## Assignments, Quizzes and Exams
@@ -126,20 +119,20 @@ Dec 09 | End of Fall Semester
 Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
 1 | Intro. to Course/Data Abstraction | Ch. 1 | 
-2 | Recursion | Ch. 2 | Homework 1 Due
-3 | Array-Based Implementations | Ch. 3 | Homework 2 Due
-4 | Link-Based Implementations | Ch. 4 | 
-5 | Recursion as Problem-Solving  | Ch. 5 | Homework 3 Due 
-6 | Stacks | Ch. 6 | Homework 4 Due 
-7 | ADT Stack | Ch. 7 | Homework 5 Due 
-8 | Lists | Ch. 8 | 
-9 | MidTerm | **Bring ScanTron** | 
-10 | List Implementations | Ch. 9 | Homework 6 Due
-11 | Algorithms Efficiency | Ch. 10 | Homework 7 Due
-12 | Sorting Algorithms | Ch. 11| Homework 8 Due
-13 | Sorted Lists | Ch. 12 | Homework 9 Due
-14 | Queue and Priority Queue | Ch. 13/14  | 
-15 | Trees | Ch. 15/16 | Homework 10 Due
+2 | Recursion | Ch. 2 | HW 1
+3 | Array-Based Implementations | Ch. 3 | PA 1
+4 | Link-Based Implementations | Ch. 4 | HW 2, PA 2
+5 | Recursion as Problem-Solving  | Ch. 5 | 
+6 | Stacks | Ch. 6 | HW 3, PA 3
+7 | ADT Stack | Ch. 7 |  HW 4, PA 4
+8 | Lists | Ch. 8 | HW 5
+9 | MidTerm | **Bring ScanTron** | PA 5
+10 | List Implementations | Ch. 9 | 
+11 | Algorithms Efficiency | Ch. 10 | HW 6, PA 6
+12 | Sorting Algorithms | Ch. 11| HW 7, PA 7
+13 | Sorted Lists | Ch. 12 | HW 8, PA 8
+14 | Queue and Priority Queue | Ch. 13/14  | HW 9, PA 9
+15 | Trees/Project Due | Ch. 15/16 | HW 10, PA 10
 16 | Finals Week | | 
 | |  Final Exam **Wed., Dec. 6 from 8:00 am - 9:50 am**| **Bring ScanTron** | 
 
