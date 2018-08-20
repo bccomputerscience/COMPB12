@@ -31,7 +31,7 @@ Day | Time
 Monday | 11:00am – 12:00pm
 Tuesday | 11:00am – 12:00pm
 Wednesday | 11:00am – 12:00pm
-  | 3:00pm – 4:00pm
+Wednesday  | 3:00pm – 4:00pm
 Thursday | 11:00am – 12:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
