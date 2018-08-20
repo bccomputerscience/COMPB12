@@ -1,5 +1,5 @@
 # COMP B12 - Programming Concepts and Methodology II
-## Fall 2017 CRN: 71460
+## Fall 2018 CRN: 71027
 
 ### Eddie Rangel
 Assoc. Professor  
@@ -13,28 +13,32 @@ Phone: (661) 395-4879
 Course Site: https://portal.bakersfieldcollege.edu/ 
 
 ## Course Information
-Building/Room: Business 2   
+Building/Room: Business 5   
 
 Day | Time
 ------------ | -------------
-Monday | 08:00am - 09:25am  
-Wednesday | 08:00am - 09:25am  
+Monday | 09:35am - 11:00am  
+Wednesday | 09:35am - 11:00am  
 
 ## Office Hours
 Building/Room: Business 1
 
 Day | Time
 ------------ | -------------
-Monday | 09:30am – 11:00am
-Tuesday | 03:00pm – 04:00pm
-Wednesday | 09:30am – 11:00am
-Thursday | 03:00pm – 04:00pm
-* If you are unable to see me during my regularly scheduled office hours, please contact me through Canvas to schedule an appointment.
+Monday | 11:00am – 12:00pm
+Tuesday | 11:00am – 12:00pm
+Wednesday | 11:00am – 12:00pm
+  | 3:00pm – 4:00pm
+Thursday | 11:00am – 12:00pm
+* If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
 **Prerequisite**: COMP B11 with a grade of "C" or better. 
 This is a software engineering course focused on the application of software engineering techniques for the design and development 
-of large programs. Topics include object oriented programming, data abstraction, data structures and their associated algorithms, and recursion. Students will learn to design, implement, test, and debug programs using an object-oriented language. Not open to students who have previously received credit for COMS B35.
+of large programs. Topics include object oriented programming, data abstraction, data structures 
+and their associated algorithms, and recursion. Students will learn to design, implement, test, 
+and debug programs using an object-oriented language. Not open to students who have previously 
+received credit for COMS B35.
 **Course Corequisites**: NONE
 
 ## Student Learning Outcomes
@@ -54,27 +58,24 @@ and design.
 ## Textbook
 
 ### Required:
-* Data Abstractions & Problem Solving with C++ 
-    * 7th Edition
+* Starting Out With C++ 
+    * 9th Edition
     * Author: Tony Gaddis
-    * ISBN: 9780134463971
+    * ISBN: 9780134443829
 * BC Email Address   
-* GitHub Student Developer Account
-* Four (4) green 100-answer test scan sheets (FORM NO. 882-ES).
+* Two (2) green 100-answer test scan sheets (FORM NO. 882-ES).
 
 ## Assignments, Quizzes and Exams
 
 Assignment | Points
 ------------ | -------------
-Project Proposal | 15
-Group Project | 25
-Programming Assignments (10 @ 20 points each) | 200
+Programming Assignments (10 @ 10 points each) | 100
 Homework Assignments (10 @ 10 points each) | 100
-In-Class Assignments (5 @ 5 points each) | 25 
-Quizzes (5 @ 5 points each) | 25 
-Midterm (25/50) | 75 
-Final Exam (25/50) | 75
-**TOTAL** | **550**
+In-Class Assignments (10 @ 10 points each) | 100 
+Midterm  | 100 
+Final Exam  | 100
+**TOTAL** | **500**
+* The number of actual assignments given may vary depending on the pace of the semester. If this occurs the points will be adjusted accordingly.
 
 * The number of actual assignments given may vary depending on the pace of the semester. If this occurs the points will be adjusted accordingly.
 
@@ -106,35 +107,36 @@ habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-m
 ## Important Dates
 Date | Event
 ------ | ------
-Aug 19 | Fall Semester - Instruction Begins 
-Sep 03 | Last day to drop from a semester length class without receiving a W 
-Sep 04 | Labor Day Holiday - Campus Closed
-Oct 20 | Last day to withdraw from a semester length class and receive a W 
-Nov 10 | Veterans Day - Campus Closed 
+Aug 18 | Fall Semester - Instruction Begins 
+Sep 02 | Last day to drop from a semester length class without receiving a W 
+Sep 03 | Labor Day Holiday - Campus Closed
+Oct 19 | Last day to withdraw from a semester length class and receive a W 
+Nov 12 | Veterans Day - Campus Closed 
+Nov 22 | Thanksgiving Holiday - Campus Closed 
 Nov 23 | Thanksgiving Holiday - Campus Closed 
-Nov 24 | Thanksgiving Holiday - Campus Closed 
-Dec 09 | End of Fall Semester
+Dec 03 | Final Exam 10:00am - 11:50am
+Dec 08 | End of Fall Semester
 
 ## 16 Week Semester Schedule  
 Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
-1 | Intro. to Course/Data Abstraction | Ch. 1 | 
-2 | Recursion | Ch. 2 | HW 1
-3 | Array-Based Implementations | Ch. 3 | PA 1
-4 | Link-Based Implementations | Ch. 4 | HW 2, PA 2
-5 | Recursion as Problem-Solving  | Ch. 5 | 
-6 | Stacks | Ch. 6 | HW 3, PA 3
-7 | ADT Stack | Ch. 7 |  HW 4, PA 4
-8 | Lists | Ch. 8 | HW 5
+1 | Intro. to Course/Computers | Ch. 1 | 
+2 | Intro. to C++ | Ch. 2 | HW 1
+3 | Expressions/Decisions | Ch. 3 & 4 | PA 1
+4 | Loops & Files | Ch. 5 | HW 2, PA 2
+5 | Functions  | Ch. 6 | 
+6 | Arrays | Ch. 7 | HW 3, PA 3
+7 | Searching & Sorting | Ch. 8 |  HW 4, PA 4
+8 | Pointers | Ch. 9 | HW 5
 9 | MidTerm | **Bring ScanTron** | PA 5
-10 | List Implementations | Ch. 9 | 
-11 | Algorithms Efficiency | Ch. 10 | HW 6, PA 6
-12 | Sorting Algorithms | Ch. 11| HW 7, PA 7
-13 | Sorted Lists | Ch. 12 | HW 8, PA 8
-14 | Queue and Priority Queue | Ch. 13/14  | HW 9, PA 9
-15 | Trees/Project Due | Ch. 15/16 | HW 10, PA 10
+10 | Structured Data | Ch. 11 | 
+11 | Intro. to Classes | Ch. 13 | HW 6, PA 6
+12 | More About Classes | Ch. 14| HW 7, PA 7
+13 | Linked Lists | Ch. 17 | HW 8, PA 8
+14 | Stacks and Queues | Ch. 18  | HW 9, PA 9
+15 | Recursion | Ch. 19 | HW 10, PA 10
 16 | Finals Week | | 
-| |  Final Exam **Wed., Dec. 6 from 8:00 am - 9:50 am**| **Bring ScanTron** | 
+| |  Final Exam **Mon., Dec. 3 from 10:00 AM - 11:50 AM**| **Bring ScanTron** | 
 
 ## Accommodations 
 Students with disabilities needing accommodation, including those who had an IEP in high school, should make requests to Disabled Students Programs and Services in CSS 10, or Delano room 1001 (661-395-4334, (661-720-2000 Delano)).  All requests for accommodations require appropriate advance notice to avoid a delay in services. Please discuss approved accommodations with me so we can work together to ensure your access and success at BC

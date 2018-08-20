@@ -1,5 +1,5 @@
 # COMP B12 - Programming Concepts and Methodology II
-## Fall 2017 CRN: 71460
+## Fall 2018 CRN: 71027
 
 ### Eddie Rangel
 Assoc. Professor  
@@ -13,23 +13,24 @@ Phone: (661) 395-4879
 Course Site: https://portal.bakersfieldcollege.edu/ 
 
 ## Course Information
-Building/Room: Business 2   
+Building/Room: Business 5   
 
 Day | Time
 ------------ | -------------
-Monday | 08:00am - 09:25am  
-Wednesday | 08:00am - 09:25am  
+Monday | 09:35am - 11:00am  
+Wednesday | 09:35am - 11:00am  
 
 ## Office Hours
 Building/Room: Business 1
 
 Day | Time
 ------------ | -------------
-Monday | 09:30am – 11:00am
-Tuesday | 03:00pm – 04:00pm
-Wednesday | 09:30am – 11:00am
-Thursday | 03:00pm – 04:00pm
-* If you are unable to see me during my regularly scheduled office hours, please contact me through Canvas to schedule an appointment.
+Monday | 11:00am – 12:00pm
+Tuesday | 11:00am – 12:00pm
+Wednesday | 11:00am – 12:00pm
+  | 3:00pm – 4:00pm
+Thursday | 11:00am – 12:00pm
+* If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
 **Prerequisite**: COMP B11 with a grade of "C" or better. 
