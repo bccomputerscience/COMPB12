@@ -11,6 +11,9 @@ Office: Business 1
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
 Course Site: https://portal.bakersfieldcollege.edu/ 
+Canvas: https://kccd.instructure.com
+
+* As students in my course, you are required to use Canvas to communicate with me. Please do not send me emails. Only used the built in features of Canvas.
 
 ## Course Information
 Building/Room: Business 5   
