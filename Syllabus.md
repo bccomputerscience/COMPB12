@@ -45,18 +45,12 @@ received credit for COMS B35.
 **Course Corequisites**: NONE
 
 ## Student Learning Outcomes
-1. Design and implement programs that use arrays, records/structs, strings, linked
-lists, stacks, queues, hash tables, and trees.
-2. Design, implement, test, and debug recursive functions and procedures.
-3. Evaluate the tradeoffs in lifetime management of data when using manual memory
-management versus reference counting or tracing garbage collection.
-4. Explain how abstraction mechanisms support the creation of reusable software
-components.
-4. Design, implement, test, and debug programs in an objectoriented
-language.
-6. Compare and contrast objectoriented
-analysis and design with structured analysis
-and design.
+* Upon completion the student will be able to:Design and implement programs that use arrays, records/structs, strings, linked lists, stacks, queues, hash tables, and trees.
+* Upon completion the student will be able to: Design, implement, test, and debug recursive functions and procedures.
+* Upon completion the student will be able to: Evaluate the tradeoffs in lifetime management of data when using manual memory management versus reference counting or tracing garbage collection.
+* Upon completion the student will be able to: Explain how abstraction mechanisms support the creation of reusable software components.
+* Upon completion the student will be able to: Design, implement, test, and debug programs in an object-oriented language.
+* Upon completion the student will be able to: Compare and contrast object-oriented analysis and design with structured analysis and design.
 
 ## Textbook
 
